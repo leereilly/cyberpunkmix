@@ -4,7 +4,7 @@ Attribution-NonCommercial-ShareAlike Creative Commons Licence  (CC BY-NC-SA)
 
 
 
-Prologue
+# Prologue
 
 Sunsets always seem to me to last for such a long time. The happiest moments of my life have come when I've been watching them, as I do now. For a moment I wonder if this says something about me.
 
@@ -13,7 +13,7 @@ The sun finally gives way to sepia sky. “I'm leaving,” she says.
 And that's it. 
 
 
-One
+# One
 
 All my life I dreamed of something different. 
 
